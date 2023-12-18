@@ -1,0 +1,420 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "W0iQ-BoYNZWY-6RlqS6uNxrvQpk",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "_-c-uqJo9Dsfgxah-gRbwDgn0mk",
+      "id": "7M7JcjRe1D8",
+      "snippet": {
+        "publishedAt": "2023-12-17T09:15:00Z",
+        "channelId": "UCjn-VbcIkAeXQKCmLJV8YwQ",
+        "title": "소년시대 | 8화 하이라이트 | 연약한 근육 | 쿠팡플레이 | 쿠팡",
+        "description": "니들도 그런 적 있냔말여…\n방금 눈 감았는디 아침인 적🌞\n\n#쿠팡플레이 #coupangplay #소년시대\n#임시완 #이선빈 #이시우 #강혜원",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7M7JcjRe1D8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7M7JcjRe1D8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7M7JcjRe1D8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7M7JcjRe1D8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7M7JcjRe1D8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쿠팡플레이 Coupang Play",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "소년시대 | 8화 하이라이트 | 연약한 근육 | 쿠팡플레이 | 쿠팡",
+          "description": "니들도 그런 적 있냔말여…\n방금 눈 감았는디 아침인 적🌞\n\n#쿠팡플레이 #coupangplay #소년시대\n#임시완 #이선빈 #이시우 #강혜원"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "574706",
+        "likeCount": "4936",
+        "favoriteCount": "0",
+        "commentCount": "394"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uA4I_Sx-dbDi7AUZQ48zkWSpvYU",
+      "id": "4R7vRFGJr3k",
+      "snippet": {
+        "publishedAt": "2023-12-17T14:59:58Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "ITZY \"BORN TO BE\" M/V @ITZY",
+        "description": "ITZY \"BORN TO BE\" M/V\n\nITZY \"BORN TO BE\"\nhttps://ITZY.lnk.to/BORNTOBE\n\n📌 ALBUM RELEASE \n2024.01.08 MON 6PM (KST) | 4AM (EST)\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n▶ http://fans.jype.com/ITZY\n\n#ITZY #ITZY_BORNTOBE #ITZYComeback\n\nCopyrights 2023 ⓒ JYP Entertainment. All Rights Reserved",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4R7vRFGJr3k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4R7vRFGJr3k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4R7vRFGJr3k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4R7vRFGJr3k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4R7vRFGJr3k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "tags": [
+          "JYP Entertainment",
+          "JYP",
+          "ITZY",
+          "있지",
+          "イッチ",
+          "예지",
+          "리아",
+          "류진",
+          "채령",
+          "유나",
+          "YEJI",
+          "LIA",
+          "RYUJIN",
+          "CHAERYEONG",
+          "YUNA",
+          "イェジ",
+          "リア",
+          "リュジン",
+          "チェリョン",
+          "ユナ",
+          "อิทจี",
+          "เยจี",
+          "ลีอา",
+          "รยูจิน",
+          "แชรยอง",
+          "ยูนา",
+          "ITZY VIDEOS",
+          "ITZY BEHIND",
+          "MV",
+          "ITZY MV",
+          "ITZY MUSIC VIDEOS",
+          "Teaser",
+          "ITZY Teaser",
+          "ITZY VLOG",
+          "VLOG",
+          "IT'z Different",
+          "IT'z ICY",
+          "IT'z ME",
+          "Not Shy",
+          "GUESS WHO",
+          "CRAZY IN LOVE",
+          "DALLA DALLA",
+          "ICY",
+          "WANNABE",
+          "마.피.아.IN THE MORNING",
+          "LOCO",
+          "ITZY?ITZY!",
+          "ITZY CHECKMATE",
+          "CHECKMATE",
+          "ITZY COMEBACK",
+          "SNEAKERS",
+          "Boys Like You",
+          "CHESHIRE",
+          "KILL MY DOUBT",
+          "CAKE",
+          "BORN TO BE"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "ITZY \"BORN TO BE\" M/V @ITZY",
+          "description": "ITZY \"BORN TO BE\" M/V\n\nITZY \"BORN TO BE\"\nhttps://ITZY.lnk.to/BORNTOBE\n\n📌 ALBUM RELEASE \n2024.01.08 MON 6PM (KST) | 4AM (EST)\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n▶ http://fans.jype.com/ITZY\n\n#ITZY #ITZY_BORNTOBE #ITZYComeback\n\nCopyrights 2023 ⓒ JYP Entertainment. All Rights Reserved"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3472099",
+        "likeCount": "432911",
+        "favoriteCount": "0",
+        "commentCount": "41633"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9LVN9vVrFCK_sECp2vpYkGGJraY",
+      "id": "_r3r0WzMRgo",
+      "snippet": {
+        "publishedAt": "2023-12-14T15:02:27Z",
+        "channelId": "UCF3UEVPt5zZTlBVJwDG317g",
+        "title": "＂출연자 중 최고가 아닌가＂ 심사위원들 다 쓰러트린 美친 감성💖 49호 가수의 '넌 쉽게 말했지만'｜싱어게인3｜JTBC 231214 방송 외",
+        "description": "03:39  49호 - 넌 쉽게 말했지만\n\n#싱어게인3 #넌쉽게말했지만\n\n[JTBC봐야지] 구독하기☞  https://url.kr/q9raxe\n------------------------------------------------------\n📌영상 속 프로그램은?\n\n【싱어게인3】\nhttp://tv.jtbc.co.kr/singagain3\n------------------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_r3r0WzMRgo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_r3r0WzMRgo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_r3r0WzMRgo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_r3r0WzMRgo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_r3r0WzMRgo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JTBC Voyage",
+        "tags": [
+          "genre:오디션",
+          "format:큐레이션",
+          "source:음악",
+          "type:방송",
+          "series:싱어게인3",
+          "topic:무대",
+          "person:이승기",
+          "person:규현",
+          "person:이해리",
+          "person:선미",
+          "person:임재범",
+          "person:김이나",
+          "person:코드쿤스트",
+          "person:윤종신",
+          "person:백지영",
+          "싱어게인3",
+          "싱어게인",
+          "싱어게인2",
+          "싱어게인 다시보기",
+          "싱어게인 레전드",
+          "싱어게인 명장면",
+          "싱어게인 심사위원",
+          "싱어게인3 이승기",
+          "싱어게인3 윤종신"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "＂출연자 중 최고가 아닌가＂ 심사위원들 다 쓰러트린 美친 감성💖 49호 가수의 '넌 쉽게 말했지만'｜싱어게인3｜JTBC 231214 방송 외",
+          "description": "03:39  49호 - 넌 쉽게 말했지만\n\n#싱어게인3 #넌쉽게말했지만\n\n[JTBC봐야지] 구독하기☞  https://url.kr/q9raxe\n------------------------------------------------------\n📌영상 속 프로그램은?\n\n【싱어게인3】\nhttp://tv.jtbc.co.kr/singagain3\n------------------------------------------------------"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT14M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2293690",
+        "likeCount": "31127",
+        "favoriteCount": "0",
+        "commentCount": "4863"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lN1Hso6KExSybtg5iUGfkLNAHWs",
+      "id": "qd_0VMuKvQ4",
+      "snippet": {
+        "publishedAt": "2023-12-18T03:00:21Z",
+        "channelId": "UCYZv9v_bwfMGc64gLRe34OA",
+        "title": "[#새롭동물농장] 우리 이제 같이 살아요~🤍🖤 아이바오&쌍둥바오 첫 합사하는 날!🐼 / EP.1150 #TV동물농장 #AnimalFarm #SBSstory",
+        "description": "TV동물농장 1150회\n2023.12.17 방영\n\n한 마리씩 육아를 해오던 아이바오가 드디어 쌍둥이들을 함께 육아를 해야 하는 날이 왔습니다!!\n걱정이 한가득이었지만 우리의 아이바오는 역시 육아 천재답게 바로 성공~🖤🤍\n앞으로 세 배 더 행복할 세 모녀의 모습 기대해 주세요ㅎㅎ\n작은 할부지가 주는 특급 선물에 대한 푸공주의 반응은?ㅋㅋㅋ\n\nCopyright Ⓒ SBS. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qd_0VMuKvQ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qd_0VMuKvQ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qd_0VMuKvQ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qd_0VMuKvQ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qd_0VMuKvQ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBS STORY",
+        "tags": ["SBS", "SBSStory", "교양"],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[#새롭동물농장] 우리 이제 같이 살아요~🤍🖤 아이바오&쌍둥바오 첫 합사하는 날!🐼 / EP.1150 #TV동물농장 #AnimalFarm #SBSstory",
+          "description": "TV동물농장 1150회\n2023.12.17 방영\n\n한 마리씩 육아를 해오던 아이바오가 드디어 쌍둥이들을 함께 육아를 해야 하는 날이 왔습니다!!\n걱정이 한가득이었지만 우리의 아이바오는 역시 육아 천재답게 바로 성공~🖤🤍\n앞으로 세 배 더 행복할 세 모녀의 모습 기대해 주세요ㅎㅎ\n작은 할부지가 주는 특급 선물에 대한 푸공주의 반응은?ㅋㅋㅋ\n\nCopyright Ⓒ SBS. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT18M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "148939",
+        "likeCount": "3635",
+        "favoriteCount": "0",
+        "commentCount": "125"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "B92TyLtDnD9EvVRWKCcu8fIflTY",
+      "id": "RlCtAuNbpfg",
+      "snippet": {
+        "publishedAt": "2023-12-16T08:00:13Z",
+        "channelId": "UCR_mdfN45coziHjgTqXu_8A",
+        "title": "[현장 인터뷰] 이정후 입단식 찾은 ‘정후 엄마’의 눈물│이종범은 진심 아들을 부러워했다│미국 진출 안된다고 말했는데│이영미의 MLB라이브",
+        "description": "샌프란시스코 자이언츠 외야수 이정후 입단식에 \n참석한 어머니 정연희 씨와 아버지 이종범 코치는\n중요한 장면을 휴대폰에 담느라 바빴습니다.\nMLB 포스팅이 공시된 후 샌프란시스코와 계약을 맺기까지\n매일 노심초사하며 시간을 보낸 터라 \n막상 계약이 성사되고 입단식까지 치르게 되자\n부모는 기쁨과 안도의 한숨을 내쉽니다.\n입단식을 마치고 인터뷰를 통해 다시 만난\n‘정후 엄마’는 아들 이야기를 꺼내며 갑자기 \n눈물을 보입니다. \n누구도 헤아리기 어려운 어머니의 마음이기에\n그 엄마는 아들의 성장을 함께 하며\n희로애락을 주고받았을 것입니다. \n이정후의 샌프란시스코 입단식에서 만난 \n‘정후 엄마’와 ‘정후 아빠’\n두 사람의 이야기를 소개합니다. \n\n#이정후 #이종범 #바람의손자 #바람의아들 #JunghooLee #샌프란시스코자이언츠 #mlb #kbo #야구 #이영미기자 #이영미의mlb라이브\n\n▶ 제보 합방 광고 문의 \nssumstime@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RlCtAuNbpfg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RlCtAuNbpfg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RlCtAuNbpfg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RlCtAuNbpfg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RlCtAuNbpfg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "썸타임즈Ssumtimes",
+        "tags": [
+          "야구",
+          "프로야구",
+          "MLB",
+          "KBO",
+          "이슈",
+          "썸타임즈",
+          "이정후",
+          "이종범",
+          "바람의손자",
+          "바람의아들",
+          "JunghooLee",
+          "샌프란시스코자이언츠",
+          "mlb",
+          "kbo",
+          "이영미기자",
+          "이영미의mlb라이브"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[현장 인터뷰] 이정후 입단식 찾은 ‘정후 엄마’의 눈물│이종범은 진심 아들을 부러워했다│미국 진출 안된다고 말했는데│이영미의 MLB라이브",
+          "description": "샌프란시스코 자이언츠 외야수 이정후 입단식에 \n참석한 어머니 정연희 씨와 아버지 이종범 코치는\n중요한 장면을 휴대폰에 담느라 바빴습니다.\nMLB 포스팅이 공시된 후 샌프란시스코와 계약을 맺기까지\n매일 노심초사하며 시간을 보낸 터라 \n막상 계약이 성사되고 입단식까지 치르게 되자\n부모는 기쁨과 안도의 한숨을 내쉽니다.\n입단식을 마치고 인터뷰를 통해 다시 만난\n‘정후 엄마’는 아들 이야기를 꺼내며 갑자기 \n눈물을 보입니다. \n누구도 헤아리기 어려운 어머니의 마음이기에\n그 엄마는 아들의 성장을 함께 하며\n희로애락을 주고받았을 것입니다. \n이정후의 샌프란시스코 입단식에서 만난 \n‘정후 엄마’와 ‘정후 아빠’\n두 사람의 이야기를 소개합니다. \n\n#이정후 #이종범 #바람의손자 #바람의아들 #JunghooLee #샌프란시스코자이언츠 #mlb #kbo #야구 #이영미기자 #이영미의mlb라이브\n\n▶ 제보 합방 광고 문의 \nssumstime@gmail.com"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT6M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "484477",
+        "likeCount": "6442",
+        "favoriteCount": "0",
+        "commentCount": "730"
+      }
+    }
+  ],
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 5
+  }
+}
