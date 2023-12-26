@@ -1,235 +1,862 @@
 {
-  "kind": "youtube#videoListResponse",
-  "etag": "Z3DyNBc4UIiFBW5gW1wwUK3sBjY",
+  "kind": "youtube#searchListResponse",
+  "etag": "JVkbLn4znVo4UcyOsSTjWpQtT1Q",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 338,
+    "resultsPerPage": 25
+  },
   "items": [
     {
-      "kind": "youtube#video",
-      "etag": "MfYwzzDIvBQcIfNKVwcUUyJqg1Y",
-      "id": "Ks-_Mh1QhMc",
+      "kind": "youtube#searchResult",
+      "etag": "KChCLrDB9gp7pUz7kJEn-UPDp54",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i8dE6RL_PiI"
+      },
       "snippet": {
-        "publishedAt": "2012-10-01T15:27:35Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "Your body language may shape who you are | Amy Cuddy | TED",
-        "description": "Body language affects how others see us, but it may also change how we see ourselves. Social psychologist Amy Cuddy argues that \"power posing\" -- standing in a posture of confidence, even when we don't feel confident -- can boost feelings of confidence, and might have an impact on our chances for success. (Note: Some of the findings presented in this talk have been referenced in an ongoing debate among social scientists about robustness and reproducibility. Read Amy Cuddy's response here: http://ideas.ted.com/inside-the-debate-about-power-posing-a-q-a-with-amy-cuddy/)\n\nGet TED Talks recommended just for you! Learn more at https://www.ted.com/signup.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more.\n\nFollow TED on Twitter: http://www.twitter.com/TEDTalks\nLike TED on Facebook: https://www.facebook.com/TED\n\nSubscribe to our channel: https://www.youtube.com/TED",
+        "publishedAt": "2023-03-21T10:00:33Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "찐따록 : 인간 곽준빈 예고",
+        "description": "기다려주셔서 감사합니다.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Ks-_Mh1QhMc/default.jpg",
+            "url": "https://i.ytimg.com/vi/i8dE6RL_PiI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Ks-_Mh1QhMc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/i8dE6RL_PiI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Ks-_Mh1QhMc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/i8dE6RL_PiI/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Ks-_Mh1QhMc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Ks-_Mh1QhMc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "TED",
-        "tags": [
-          "Amy Cuddy",
-          "TED",
-          "TEDTalk",
-          "TEDTalks",
-          "TED Talk",
-          "TED Talks",
-          "TEDGlobal",
-          "brain",
-          "business",
-          "psychology",
-          "self",
-          "success"
-        ],
-        "categoryId": "22",
+        "channelTitle": "곽튜브",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Your body language may shape who you are | Amy Cuddy | TED",
-          "description": "Body language affects how others see us, but it may also change how we see ourselves. Social psychologist Amy Cuddy argues that \"power posing\" -- standing in a posture of confidence, even when we don't feel confident -- can boost feelings of confidence, and might have an impact on our chances for success. (Note: Some of the findings presented in this talk have been referenced in an ongoing debate among social scientists about robustness and reproducibility. Read Amy Cuddy's response here: http://ideas.ted.com/inside-the-debate-about-power-posing-a-q-a-with-amy-cuddy/)\n\nGet TED Talks recommended just for you! Learn more at https://www.ted.com/signup.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more.\n\nFollow TED on Twitter: http://www.twitter.com/TEDTalks\nLike TED on Facebook: https://www.facebook.com/TED\n\nSubscribe to our channel: https://www.youtube.com/TED"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT21M3S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "true",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "24054755",
-        "likeCount": "408153",
-        "favoriteCount": "0",
-        "commentCount": "9608"
+        "publishTime": "2023-03-21T10:00:33Z"
       }
     },
     {
-      "kind": "youtube#video",
-      "etag": "6bm59H3eQgcY_D5FXsvQYlNtMxI",
-      "id": "c0KYU2j0TM4",
+      "kind": "youtube#searchResult",
+      "etag": "G9JrhD-_Z78C2VqnjyqBO8nQENk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3RwTNe0gHYI"
+      },
       "snippet": {
-        "publishedAt": "2012-03-02T19:03:16Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "The power of introverts | Susan Cain | TED",
-        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nIn a culture where being social and outgoing are prized above all else, it can be difficult, even shameful, to be an introvert. But, as Susan Cain argues in this passionate talk, introverts bring extraordinary talents and abilities to the world, and should be encouraged and celebrated.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "publishedAt": "2023-09-14T12:36:34Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "공산국가 쿠바에서 다시 만난 3인조 - 쿠바(1)",
+        "description": "안녕하세요 쿠바 하바나에서 드디어 노홍철, 빠니보틀 형님과 재회했습니다. 1편 분량 조절을 실패해서 더 풍성한 2편으로 찾아뵙겠 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/default.jpg",
+            "url": "https://i.ytimg.com/vi/3RwTNe0gHYI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3RwTNe0gHYI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3RwTNe0gHYI/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "TED",
-        "tags": [
-          "Susan Cain",
-          "culture",
-          "psychology",
-          "introvert",
-          "Quiet",
-          "Power of Introverts Book",
-          "extravert",
-          "TED",
-          "TED2012",
-          "TEDTalk",
-          "TEDTalks",
-          "TED Talk",
-          "TED Talks"
-        ],
-        "categoryId": "22",
+        "channelTitle": "곽튜브",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "The power of introverts | Susan Cain | TED",
-          "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nIn a culture where being social and outgoing are prized above all else, it can be difficult, even shameful, to be an introvert. But, as Susan Cain argues in this passionate talk, introverts bring extraordinary talents and abilities to the world, and should be encouraged and celebrated.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT19M5S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "true",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "15861300",
-        "likeCount": "408665",
-        "favoriteCount": "0",
-        "commentCount": "18934"
+        "publishTime": "2023-09-14T12:36:34Z"
       }
     },
     {
-      "kind": "youtube#video",
-      "etag": "jxaMcJZi2p-iybQ9In8u2r_RzxE",
-      "id": "eIho2S0ZahI",
+      "kind": "youtube#searchResult",
+      "etag": "dPk6WVb6Scd3PCoz-HuqCVbg_pQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qdu2nuPTesw"
+      },
       "snippet": {
-        "publishedAt": "2014-06-27T15:10:18Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "How to speak so that people want to listen | Julian Treasure | TED",
-        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nHave you ever felt like you're talking, but nobody is listening? Here's Julian Treasure to help you fix that. As the sound expert demonstrates some useful vocal exercises and shares tips on how to speak with empathy, he offers his vision for a sonorous world of listening and understanding.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "publishedAt": "2020-06-29T10:45:48Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "고등학교 자퇴생의 짧은 인생 이야기",
+        "description": "촬영&편집 :캡틴따거 https://www.youtube.com/channel/UCt_7uH4Igz0T_K3Qzbs1Wig 앞으로 올라올 국내여행도 재밌게 봐주세요 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/default.jpg",
+            "url": "https://i.ytimg.com/vi/qdu2nuPTesw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qdu2nuPTesw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qdu2nuPTesw/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "TED",
-        "tags": [
-          "TEDTalk",
-          "TEDTalks",
-          "TED Talk",
-          "TED Talks",
-          "TED",
-          "Julian Treasure",
-          "culture",
-          "sound",
-          "speech",
-          "TEDGlobal"
-        ],
-        "categoryId": "26",
+        "channelTitle": "곽튜브",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "How to speak so that people want to listen | Julian Treasure | TED",
-          "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nHave you ever felt like you're talking, but nobody is listening? Here's Julian Treasure to help you fix that. As the sound expert demonstrates some useful vocal exercises and shares tips on how to speak with empathy, he offers his vision for a sonorous world of listening and understanding.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com"
-        }
+        "publishTime": "2020-06-29T10:45:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XcKMZeGv2saCg4DDRcttzyQz8ts",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "86YF3TdRDys"
       },
-      "contentDetails": {
-        "duration": "PT9M59S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "true",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
+      "snippet": {
+        "publishedAt": "2022-10-19T07:59:44Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "수리남 정글에서 살아남기 - 수리남(2)",
+        "description": "안녕하세요 수리남에서 홍어낚시를 해보려고 했는데 홍어가 없네요. 그래서 찾아보니 피라냐 낚시가 있어 피라냐낚시를 하러 왔는데 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/86YF3TdRDys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/86YF3TdRDys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/86YF3TdRDys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-19T07:59:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KGqQsvUwROOyEfpIAeM9jm5w9XA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P_0KeOmkBHo"
       },
-      "statistics": {
-        "viewCount": "39284955",
-        "likeCount": "800899",
-        "favoriteCount": "0",
-        "commentCount": "10276"
+      "snippet": {
+        "publishedAt": "2021-11-19T09:00:11Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "한국어 능력자 마을의 이상한 승마 축제 - 세계여행(30)",
+        "description": "안녕하세요. 우즈베키스탄 사마르칸트의 빠야렉 마을에서 개최된 지역축제에 다녀왔습니다. 콥카리라는 경기에 대해 설명이 적었는데 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P_0KeOmkBHo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P_0KeOmkBHo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P_0KeOmkBHo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-19T09:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BMBWNshA7fMPYhe3oL9ccZ_DkaQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OFq30RxoTJQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-11T13:01:54Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "9일간 집에 박혀있다 부산 낙동강따라 고독한 도보여행",
+        "description": "안녕하세요. 다들 건강하신가요. 저도 건강히 잘 지내고 있습니다. 가볍게 밖에 나갔다왔고 다음엔 어딜 갈지 고민이 많습니다. 다들 몸 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OFq30RxoTJQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OFq30RxoTJQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OFq30RxoTJQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-11T13:01:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BYycte7LomwTcq57fZhy4dolnK4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BIfmSEDy0zo"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-01T08:00:07Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "태국 여행가와 해방촌 태국식당 솔직한 탐방기",
+        "description": "안녕하세요. 요즘 계속 누군가와 영상을 함께 하고 있습니다. 아무래도 세계음식에 대한 정보를 전달하기에는 제 짧은 지식이 부족한 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BIfmSEDy0zo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BIfmSEDy0zo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BIfmSEDy0zo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-01T08:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VKicOnKmv8XnEO0NcfFS9hFYRPQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fZKturVKN4E"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-23T10:27:03Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "초호화 비즈니스 클래스로 아프리카 대륙 이동하기 - 에티오피아(1)",
+        "description": "항공 및 호텔은 '에티오피아 항공'의 지원을 받았습니다. 안녕하세요. 무사히 에티오피아에 입국하여 영상을 올립니다. 늘 무사히 여행 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fZKturVKN4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fZKturVKN4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fZKturVKN4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-23T10:27:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_PQORX4M4JD_n2ZhcCtaB47XgFA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VF0LQVx4rA0"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-21T08:09:09Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "세계에서 가장 기괴한 시장 투어 - 북중미(8)",
+        "description": "안녕하세요 멕시코 시티의 두개의 특별한 시장 소노라, 산 후안 시장을 가볍게 다녀왔습니다. 생각보다 기괴하지 않고 이상하지 않고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VF0LQVx4rA0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VF0LQVx4rA0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VF0LQVx4rA0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-21T08:09:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iiAQCwZnQG7R2e8GypyeqFj9lko",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SCaUM3g7KN4"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-13T03:12:03Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "서울 노른자땅에서 쓰리룸 자취방을 찾아라",
+        "description": "안녕하세요 오랜 친구가 된 빠니보틀님의 새로운 자취방을 구하려고 하고 있습니다. 아직은 못구했지만 곧 정리되는대로 구할예정 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SCaUM3g7KN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SCaUM3g7KN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SCaUM3g7KN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-13T03:12:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iCCL6LaI0QCNcqQb99RFdgc9t3k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MHRnj-l_u2Q"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-16T10:00:01Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "아프리카 지하 유적도시 가보기 - 에티오피아(5)",
+        "description": "안녕하세요 에티오피아 북부 랄리벨라 지역의 암굴교회에 다녀왔습니다. 시간과 날씨가 따라주지 않아 굉장히 아쉬웠던 곳입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MHRnj-l_u2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MHRnj-l_u2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MHRnj-l_u2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-16T10:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oLNHgaCx3GNpSAZNJ5e140cgd0w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nuFfsUnQxE8"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-07T10:46:51Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "아프리카 작은 시골마을 여행기 - 에티오피아(3)",
+        "description": "안녕하세요. 영상 업로드가 많이 늦어졌는데, 지방을 다니면서 정해진 일정에 맞춰 다니면서 편집까지 하려다보니 여행같지가 않아서 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nuFfsUnQxE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nuFfsUnQxE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nuFfsUnQxE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-07T10:46:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jeG7loSSAPxeINA6QbiDkeZUU1g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RXW-h_ci02U"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-12T08:24:21Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "지방사람의 강남 옥탑쪽방 입성기(ft. 빠니보틀) - 서울살이 01",
+        "description": "안녕하세요. 작년부터 계획하던 독립에 대한 생각을 2월에서야 이루게 되었습니다. 2주정도는 빠니보틀님의 집에서 머물면서 집을 좀 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RXW-h_ci02U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RXW-h_ci02U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RXW-h_ci02U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-12T08:24:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NdDvfx1HnTEW63nxT952TM1w6Vk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EVfz9Vz092g"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-23T09:00:07Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "월드컵개최국 카타르 수도 둘러보기 - 카타르(1)",
+        "description": "안녕하세요 MBC의 지원을 받아 이번 카타르월드컵 직관을 할 수 있게 되었습니다. 이번 영상은 카타르 월드컵 개막전에 미리 수도인 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EVfz9Vz092g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EVfz9Vz092g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EVfz9Vz092g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-23T09:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vxhlYcuAMt0yjBAGsUtp49zcQsA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hYGfTIGfKvQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-28T21:45:01Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "아제르바이잔 3,000원 점심식사 든든하게 해결하고 왔습니다. 3000원 아제르 가정식 먹방",
+        "description": "안녕하세요 오늘은 직장인들이 많이 몰리는 아제르바이잔 식당에서 저도 점심을 한끼 해결하고 왔습니다. 식당이름은 Yummy cafe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hYGfTIGfKvQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hYGfTIGfKvQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hYGfTIGfKvQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-28T21:45:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qDY9JcFvmw9ksZOdHX_7J2svxU4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MrIHJBVYun0"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-27T10:48:50Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "17년전 버려진 무인도, 폐교에서 캠핑하기",
+        "description": "안녕하세요 통영에 위치한 무인도 '갈도'에서 캠핑을 하고 왔습니다. 3일정도 지내고 와서 분량이 좀 많아 2편으로 올라올 예정입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MrIHJBVYun0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MrIHJBVYun0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MrIHJBVYun0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-27T10:48:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PN5kIxH6OiHsxk64ePZkWrf7BU8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NMXpuJ9WYUQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-19T15:00:14Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "힘겨운 카자흐스탄 열차 꼬리칸 24시 - 세계여행(19)",
+        "description": "안녕하세요 저는 카자흐스탄의 시베리안 열차를 타고 알마티라는 도시에 도착해 쉬고있습니다. 모두 즐겁고 행복하고 맛있는 명절 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NMXpuJ9WYUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NMXpuJ9WYUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NMXpuJ9WYUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-19T15:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e5afBRij21K4qYcDcfXNASfOA48",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mAtOKDgBLUU"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-09T16:46:41Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "닭갈비의 성지, 춘천 닭갈비 골목 순례길(Feat. 빠니보틀)",
+        "description": "안녕하세요. 요즘 자주 같이 찍고 있는 빠니보틀님의 춘천 농막에 놀러왔습니다. 일손이 좀 필요하다고 해서 또 부리나케 뛰어왔습니다 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mAtOKDgBLUU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mAtOKDgBLUU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mAtOKDgBLUU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-09T16:46:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JOeeWHdgFQLgFu3W9stVNnywFjQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g_KgJI836wc"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-27T09:59:16Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "다섯 청춘 남녀가 무인도에 가면 생기는 일 - 곽컴퍼니(2)",
+        "description": "이번 영상은 그레고리의 유료광고를 포함하고 있습니다 솔로지옥을 촬영했던 무인도를 다녀왔습니다 . 즐거운 워크샵이었습니다 감사 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g_KgJI836wc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g_KgJI836wc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g_KgJI836wc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-27T09:59:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yzhyGwHeHIsopEZu5srWvnQCfmM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AP9LknR4hKM"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-20T15:34:38Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "최고급 러시아 비즈니스석 입국 후기 - 세계여행(37)",
+        "description": "안녕하세요 한국가기전 마지막으로 타는 장거리 항공을 저에게 주는 크리스마스 선물, 아에로플로트의 비즈니스 클래스를 제돈 주고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AP9LknR4hKM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AP9LknR4hKM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AP9LknR4hKM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-20T15:34:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HumZmdE5Bue-8u6FE6VtJhzCxeA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Benmdc_bc9k"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-29T12:21:45Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "인도 여행가와 이태원 인도식당 솔직한 탐방기",
+        "description": "안녕하세요. 구독자분들이 원하고 원하던 그 물병 '빠니보틀' 선생님과 파키스탄, 인도식당에 다녀왔습니다. 여러가지 음식이 많고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Benmdc_bc9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Benmdc_bc9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Benmdc_bc9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-29T12:21:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YLLuqDwy5kZF6SQwoJzAoWvA7QE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lF866XB7uaQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-03T12:47:37Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "찐따남의 가슴 따뜻한 서울 여행기",
+        "description": "안녕하세요. 제가 또 이것저것 하다보니 연기도전을 하려고 하는데 마침 또 원래 팬이던 우정잉님을 알게되어 서울 여행을 하였습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lF866XB7uaQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lF866XB7uaQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lF866XB7uaQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-03T12:47:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yw-1olkP8vesDWk42ZtYQ4B7poI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8_hpcebDNFw"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-28T11:38:14Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "500만원짜리 초호화 일등석 비행후기 - 아제르바이잔(1)",
+        "description": "안녕하세요 하반기부터 여행예정이라, 나름 제3의 고향인 아제르바이잔에서 휴식을 하러 왔습니다. 원래부터 퍼스트클래스를 타보고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8_hpcebDNFw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8_hpcebDNFw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8_hpcebDNFw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-28T11:38:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jSNicXlDUSaQt6KlAnmkbgyPJzA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "daHIzewm7b4"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-18T10:00:15Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "직원들 속이고 갑자기 해외여행 데려가는 회사  - 필리핀(1)",
+        "description": "이번 영상은 공항철도의 유료광고를 포함하고 있습니다. 안녕하세요 오래간만에 찾아뵙습니다 이번에는 곽컴퍼니 대규모 워크샵을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/daHIzewm7b4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/daHIzewm7b4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/daHIzewm7b4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-18T10:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LkoaaLWst25lJ1EmRnEB2RKbna8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hr7ElPukF74"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-16T12:59:03Z",
+        "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+        "title": "한국 최대 애니메이션 박물관 가보기(Feat.빠니보틀)",
+        "description": "안녕하세요 춘천에서 잘먹고 잘놀고 구경도 좀 하고 부산으로 내려왔습니다. 이것저것 먹고 놀기만 하다가 박물관가서 좋은 구경을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hr7ElPukF74/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hr7ElPukF74/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hr7ElPukF74/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "곽튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-16T12:59:03Z"
       }
     }
-  ],
-  "pageInfo": {
-    "totalResults": 3,
-    "resultsPerPage": 3
-  }
+  ]
 }
