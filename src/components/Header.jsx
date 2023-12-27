@@ -27,7 +27,7 @@ export default function Header() {
         className='flex items-center  hover:scale-110 transition-all dark:hover:brightness-150'
       >
         <BsYoutube className='text-4xl text-brand' />
-        <h1 className='font-bold ml-2 text-3xl sm: hidden'>ReactTube</h1>
+        <h1 className='font-bold ml-2 text-3xl hidden sm:block'>ReactTube</h1>
       </Link>
       <form className='w-full flex justify-center' onSubmit={handleSubmit}>
         <input
